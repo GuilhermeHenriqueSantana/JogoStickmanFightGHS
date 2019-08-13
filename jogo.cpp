@@ -5,6 +5,8 @@
 #include<conio.c>
 #include<Windows.h>
 
+//Guilherme
+
 int infinito = 0;
 char nomePer[6]="Carl";
 
